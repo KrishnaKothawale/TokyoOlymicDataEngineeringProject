@@ -184,4 +184,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Krishna Kothawale** *Backend Support Engineer | SQL Developer | Aspiring Data Engineer* [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)
+**Krishna Kothawale** *Backend Support Engineer | SQL Developer | Aspiring Data Engineer* [LinkedIn](https://linkedin.com/in/krishnakothawale) | [GitHub](https://github.com/KrishnaKothawale)
